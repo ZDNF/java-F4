@@ -1,0 +1,1876 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.5" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane1" min="-2" pref="1914" max="-2" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane1" alignment="0" pref="988" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel1">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="f2" green="dd" red="c8" type="rgb"/>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JPanel" name="jPanel2">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="f2" green="dd" red="c8" type="rgb"/>
+                </Property>
+              </Properties>
+
+              <Layout>
+                <DimensionLayout dim="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="jTabbedPane1" min="-2" pref="1897" max="-2" attributes="0"/>
+                          <EmptySpace max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+                <DimensionLayout dim="1">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jTabbedPane1" min="-2" pref="5694" max="-2" attributes="0"/>
+                  </Group>
+                </DimensionLayout>
+              </Layout>
+              <SubComponents>
+                <Container class="javax.swing.JTabbedPane" name="jTabbedPane1">
+                  <Properties>
+                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                    </Property>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Microsoft YaHei UI" size="24" style="0"/>
+                    </Property>
+                  </Properties>
+
+                  <Layout class="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout"/>
+                  <SubComponents>
+                    <Container class="javax.swing.JPanel" name="jPanel3">
+                      <Constraints>
+                        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+                          <JTabbedPaneConstraints tabName="       &#x5546;&#x5e97;      ">
+                            <Property name="tabTitle" type="java.lang.String" value="       &#x5546;&#x5e97;      "/>
+                          </JTabbedPaneConstraints>
+                        </Constraint>
+                      </Constraints>
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="jPanel4" min="-2" pref="1959" max="-2" attributes="0"/>
+                                  <EmptySpace max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="jPanel4" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Container class="javax.swing.JPanel" name="jPanel4">
+                          <Properties>
+                            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                              <Color blue="63" green="48" red="1a" type="rgb"/>
+                            </Property>
+                          </Properties>
+
+                          <Layout>
+                            <DimensionLayout dim="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="jPanel7" max="32767" attributes="1"/>
+                                          <Component id="jLabel1" alignment="0" min="-2" pref="251" max="-2" attributes="1"/>
+                                      </Group>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                              <Component id="jPanel8" max="32767" attributes="1"/>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <EmptySpace min="-2" pref="63" max="-2" attributes="0"/>
+                                                  <Component id="jPanel5" min="-2" max="-2" attributes="1"/>
+                                              </Group>
+                                          </Group>
+                                          <Component id="jPanel6" alignment="0" min="-2" max="-2" attributes="3"/>
+                                      </Group>
+                                      <EmptySpace min="-2" pref="2225" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="jPanel9" min="-2" max="-2" attributes="1"/>
+                                      <EmptySpace pref="448" max="32767" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="jPanel13" min="-2" max="-2" attributes="1"/>
+                                      <EmptySpace pref="2134" max="32767" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="jPanel15" min="-2" max="-2" attributes="1"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="921" max="-2" attributes="0"/>
+                                      <Component id="jLabel19" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace pref="2971" max="32767" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="jPanel11" max="32767" attributes="1"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                            </DimensionLayout>
+                            <DimensionLayout dim="1">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <EmptySpace min="-2" pref="50" max="-2" attributes="0"/>
+                                      <Component id="jLabel1" min="-2" pref="158" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="jPanel7" min="-2" max="-2" attributes="0"/>
+                                          <Group type="102" attributes="0">
+                                              <Component id="jPanel5" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="jPanel6" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="jPanel8" max="32767" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jPanel9" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jPanel11" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="224" max="-2" attributes="0"/>
+                                      <Component id="jPanel13" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jPanel15" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                                      <Component id="jLabel19" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                            </DimensionLayout>
+                          </Layout>
+                          <SubComponents>
+                            <Component class="javax.swing.JLabel" name="jLabel1">
+                              <Properties>
+                                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                </Property>
+                                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                </Property>
+                                <Property name="text" type="java.lang.String" value="jLabel1"/>
+                              </Properties>
+                            </Component>
+                            <Container class="javax.swing.JPanel" name="jPanel7">
+                              <Properties>
+                                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                  <Color blue="63" green="48" red="1a" type="rgb"/>
+                                </Property>
+                              </Properties>
+
+                              <Layout>
+                                <DimensionLayout dim="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" attributes="0">
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="jLabel3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="jButton11" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="jLabel4" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="jButton12" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="jButton13" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="jButton14" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="jButton15" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace pref="121" max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                </DimensionLayout>
+                                <DimensionLayout dim="1">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="jButton11" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="jButton12" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="jButton13" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="jButton14" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="jButton15" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace pref="1012" max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                </DimensionLayout>
+                              </Layout>
+                              <SubComponents>
+                                <Component class="javax.swing.JLabel" name="jLabel3">
+                                  <Properties>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="16" style="0"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="e9" green="d4" red="c6" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="&#x793c;&#x7269;&#x5361;"/>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton11">
+                                  <Properties>
+                                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="63" green="48" red="1a" type="rgb"/>
+                                    </Property>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="16" style="0"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="f4" green="c0" red="66" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="&#x73b0;&#x5df2;&#x5728;F4&#x4e0a;&#x63a8;&#x51fa;"/>
+                                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                                      <Border info="null"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JLabel" name="jLabel4">
+                                  <Properties>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="16" style="0"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="e9" green="d4" red="c6" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="&#x63a8;&#x8350;"/>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton12">
+                                  <Properties>
+                                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="63" green="48" red="1a" type="rgb"/>
+                                    </Property>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="16" style="0"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="f4" green="c0" red="66" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="&#x7531;&#x597d;&#x53cb;&#x63a8;&#x8350;"/>
+                                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                                      <Border info="null"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton13">
+                                  <Properties>
+                                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="63" green="48" red="1a" type="rgb"/>
+                                    </Property>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="16" style="0"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="f4" green="c0" red="66" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="&#x7531;&#x597d;&#x53cb;&#x63a8;&#x8350;"/>
+                                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                                      <Border info="null"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton14">
+                                  <Properties>
+                                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="63" green="48" red="1a" type="rgb"/>
+                                    </Property>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="16" style="0"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="f4" green="c0" red="66" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="&#x7531;&#x597d;&#x53cb;&#x63a8;&#x8350;"/>
+                                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                                      <Border info="null"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton15">
+                                  <Properties>
+                                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="63" green="48" red="1a" type="rgb"/>
+                                    </Property>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="16" style="0"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="f4" green="c0" red="66" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="&#x7531;&#x597d;&#x53cb;&#x63a8;&#x8350;"/>
+                                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                                      <Border info="null"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                              </SubComponents>
+                            </Container>
+                            <Container class="javax.swing.JPanel" name="jPanel9">
+                              <Properties>
+                                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                  <Color blue="27" green="22" red="18" type="rgb"/>
+                                </Property>
+                              </Properties>
+
+                              <Layout>
+                                <DimensionLayout dim="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="-2" pref="371" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <EmptySpace min="10" pref="10" max="10" attributes="0"/>
+                                                  <Component id="jButton20" min="-2" pref="1137" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Group type="102" alignment="0" attributes="1">
+                                                  <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace max="32767" attributes="0"/>
+                                                  <Component id="jButton21" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                          </Group>
+                                          <EmptySpace pref="2080" max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                </DimensionLayout>
+                                <DimensionLayout dim="1">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="-2" pref="51" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="3" attributes="0">
+                                              <Component id="jLabel6" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              <Component id="jButton21" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="jButton20" min="-2" pref="220" max="-2" attributes="0"/>
+                                          <EmptySpace pref="53" max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                </DimensionLayout>
+                              </Layout>
+                              <SubComponents>
+                                <Component class="javax.swing.JLabel" name="jLabel6">
+                                  <Properties>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="24" style="0"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="&#x60a8;&#x7684;&#x63a2;&#x7d22;&#x961f;&#x5217;"/>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton20">
+                                  <Properties>
+                                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                      <Image iconType="2" name="D:\&#x4f5c;&#x4e1a;2\Java&#x7a0b;&#x5e8f;&#x5b9e;&#x8bad;\F_Four\src\view\image\&#x63a2;&#x7d22;.png"/>
+                                    </Property>
+                                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                                      <Border info="null"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton21">
+                                  <Properties>
+                                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="27" green="22" red="18" type="rgb"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="&#x4e86;&#x89e3;&#x66f4;&#x591a;"/>
+                                  </Properties>
+                                </Component>
+                              </SubComponents>
+                            </Container>
+                            <Container class="javax.swing.JPanel" name="jPanel11">
+                              <Properties>
+                                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                  <Color blue="38" green="28" red="1b" type="rgb"/>
+                                </Property>
+                                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                </Property>
+                              </Properties>
+
+                              <Layout>
+                                <DimensionLayout dim="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="-2" pref="387" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="1" attributes="0">
+                                              <Component id="jLabel8" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <Component id="jButton23" min="-2" pref="270" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="jButton24" min="-2" pref="270" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="jButton25" min="-2" pref="270" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="jButton26" min="-2" pref="270" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Component id="jLabel7" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="jPanel12" alignment="0" max="32767" attributes="1"/>
+                                              <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                                                  <Group type="102" alignment="0" attributes="1">
+                                                      <Component id="jLabel15" min="-2" max="-2" attributes="0"/>
+                                                      <EmptySpace max="32767" attributes="0"/>
+                                                      <Component id="jButton37" min="-2" max="-2" attributes="0"/>
+                                                  </Group>
+                                                  <Group type="102" alignment="0" attributes="1">
+                                                      <Component id="jButton33" min="-2" pref="260" max="-2" attributes="0"/>
+                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                      <Component id="jButton34" min="-2" pref="260" max="-2" attributes="0"/>
+                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                      <Component id="jButton35" min="-2" pref="260" max="-2" attributes="0"/>
+                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                      <Component id="jButton36" min="-2" pref="260" max="-2" attributes="0"/>
+                                                  </Group>
+                                              </Group>
+                                          </Group>
+                                          <EmptySpace pref="2537" max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                </DimensionLayout>
+                                <DimensionLayout dim="1">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                                          <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="3" attributes="0">
+                                              <Component id="jButton23" alignment="3" min="-2" pref="62" max="-2" attributes="0"/>
+                                              <Component id="jButton24" alignment="3" min="-2" pref="62" max="-2" attributes="0"/>
+                                              <Component id="jButton25" alignment="3" min="-2" pref="62" max="-2" attributes="0"/>
+                                              <Component id="jButton26" alignment="3" min="-2" pref="62" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="91" max="-2" attributes="0"/>
+                                          <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                          <Component id="jPanel12" min="-2" pref="637" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                              <Group type="102" attributes="0">
+                                                  <EmptySpace min="-2" pref="57" max="-2" attributes="0"/>
+                                                  <Component id="jLabel15" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                              </Group>
+                                              <Group type="102" alignment="1" attributes="1">
+                                                  <EmptySpace max="32767" attributes="0"/>
+                                                  <Component id="jButton37" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+                                              </Group>
+                                          </Group>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="jButton33" min="-2" pref="154" max="-2" attributes="0"/>
+                                              <Component id="jButton34" min="-2" pref="154" max="-2" attributes="0"/>
+                                              <Component id="jButton35" min="-2" pref="154" max="-2" attributes="0"/>
+                                              <Component id="jButton36" min="-2" pref="154" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace pref="120" max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                </DimensionLayout>
+                              </Layout>
+                              <SubComponents>
+                                <Component class="javax.swing.JLabel" name="jLabel7">
+                                  <Properties>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="24" style="0"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="&#x6d4f;&#x89c8;  F4"/>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton23">
+                                  <Properties>
+                                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="8e" green="6a" red="1c" type="rgb"/>
+                                    </Property>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="24" style="0"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="&#x65b0;&#x54c1;"/>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton24">
+                                  <Properties>
+                                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="8e" green="6a" red="1c" type="rgb"/>
+                                    </Property>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="24" style="0"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="&#x4f18;&#x60e0;"/>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton25">
+                                  <Properties>
+                                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="8e" green="6a" red="1c" type="rgb"/>
+                                    </Property>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="24" style="0"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="&#x514d;&#x8d39;&#x6e38;&#x620f;"/>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton26">
+                                  <Properties>
+                                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="8e" green="6a" red="1c" type="rgb"/>
+                                    </Property>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="24" style="0"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="&#x6309;&#x7528;&#x6237;&#x6807;&#x7b7e;"/>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JLabel" name="jLabel8">
+                                  <Properties>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="24" style="0"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="&#x4e3a;&#x60a8;&#x5efa;&#x8bae;&#x9274;&#x8d4f;&#x5bb6;"/>
+                                  </Properties>
+                                </Component>
+                                <Container class="javax.swing.JPanel" name="jPanel12">
+                                  <Properties>
+                                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="60" green="53" red="49" type="rgb"/>
+                                    </Property>
+                                  </Properties>
+
+                                  <Layout>
+                                    <DimensionLayout dim="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Group type="102" attributes="0">
+                                                      <Component id="jButton27" min="-2" pref="87" max="-2" attributes="0"/>
+                                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                      <Group type="103" groupAlignment="0" attributes="0">
+                                                          <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
+                                                          <Group type="102" attributes="0">
+                                                              <Component id="jButton28" min="-2" pref="76" max="-2" attributes="0"/>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Component id="jLabel10" min="-2" pref="152" max="-2" attributes="0"/>
+                                                          </Group>
+                                                      </Group>
+                                                      <EmptySpace pref="353" max="32767" attributes="0"/>
+                                                  </Group>
+                                                  <Group type="102" alignment="0" attributes="0">
+                                                      <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                                          <Component id="jScrollPane2" alignment="0" max="32767" attributes="1"/>
+                                                          <Component id="jButton29" alignment="0" pref="227" max="32767" attributes="1"/>
+                                                          <Component id="jLabel11" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                                      </Group>
+                                                      <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+                                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                                          <Component id="jScrollPane3" max="32767" attributes="1"/>
+                                                          <Component id="jButton30" alignment="0" pref="227" max="32767" attributes="1"/>
+                                                          <Component id="jLabel12" min="-2" pref="50" max="-2" attributes="0"/>
+                                                      </Group>
+                                                      <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                                          <Component id="jScrollPane4" max="32767" attributes="1"/>
+                                                          <Component id="jButton31" alignment="0" pref="227" max="32767" attributes="1"/>
+                                                          <Component id="jLabel13" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                                      </Group>
+                                                      <EmptySpace pref="41" max="32767" attributes="0"/>
+                                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                                          <Component id="jScrollPane5" max="32767" attributes="1"/>
+                                                          <Component id="jLabel14" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                                          <Component id="jButton32" alignment="0" pref="227" max="32767" attributes="1"/>
+                                                      </Group>
+                                                      <EmptySpace min="-2" pref="55" max="-2" attributes="0"/>
+                                                  </Group>
+                                              </Group>
+                                          </Group>
+                                      </Group>
+                                    </DimensionLayout>
+                                    <DimensionLayout dim="1">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                                  <Group type="102" alignment="0" attributes="1">
+                                                      <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
+                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                      <Group type="103" groupAlignment="0" attributes="0">
+                                                          <Component id="jLabel10" pref="39" max="32767" attributes="0"/>
+                                                          <Component id="jButton28" alignment="0" max="32767" attributes="0"/>
+                                                      </Group>
+                                                  </Group>
+                                                  <Component id="jButton27" alignment="1" min="-2" pref="89" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Group type="102" alignment="0" attributes="0">
+                                                      <Component id="jButton32" min="-2" pref="104" max="-2" attributes="0"/>
+                                                      <EmptySpace max="-2" attributes="0"/>
+                                                      <Component id="jLabel14" min="-2" max="-2" attributes="0"/>
+                                                  </Group>
+                                                  <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                                                      <Group type="102" attributes="0">
+                                                          <Component id="jButton29" min="-2" pref="104" max="-2" attributes="0"/>
+                                                          <EmptySpace max="-2" attributes="0"/>
+                                                          <Component id="jLabel11" min="-2" max="-2" attributes="0"/>
+                                                      </Group>
+                                                      <Group type="102" attributes="0">
+                                                          <Component id="jButton30" min="-2" pref="104" max="-2" attributes="0"/>
+                                                          <EmptySpace min="-2" max="-2" attributes="0"/>
+                                                          <Component id="jLabel12" min="-2" max="-2" attributes="0"/>
+                                                      </Group>
+                                                      <Group type="102" attributes="0">
+                                                          <Component id="jButton31" min="-2" pref="104" max="-2" attributes="0"/>
+                                                          <EmptySpace max="-2" attributes="0"/>
+                                                          <Component id="jLabel13" min="-2" max="-2" attributes="0"/>
+                                                      </Group>
+                                                  </Group>
+                                              </Group>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="jScrollPane2" min="-2" pref="323" max="-2" attributes="0"/>
+                                                  <Component id="jScrollPane3" min="-2" pref="323" max="-2" attributes="0"/>
+                                                  <Component id="jScrollPane4" min="-2" pref="323" max="-2" attributes="0"/>
+                                                  <Component id="jScrollPane5" min="-2" pref="323" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                    </DimensionLayout>
+                                  </Layout>
+                                  <SubComponents>
+                                    <Component class="javax.swing.JButton" name="jButton27">
+                                      <Properties>
+                                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                          <Image iconType="2" name="D:\&#x4f5c;&#x4e1a;2\Java&#x7a0b;&#x5e8f;&#x5b9e;&#x8bad;\F_Four\src\view\image\&#x5efa;&#x8bae;&#x5934;&#x50cf;.png"/>
+                                        </Property>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JButton" name="jButton28">
+                                      <Properties>
+                                        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                          <Color blue="6" green="b5" red="96" type="rgb"/>
+                                        </Property>
+                                        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="&#x5173;&#x6ce8;"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="jLabel9">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Microsoft YaHei UI" size="24" style="0"/>
+                                        </Property>
+                                        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="&#x5173;&#x6ce8; &#x55f6;&#x54e9;&#x55f6;&#x54e9; - ( &#x309c;- &#x309c;)&#x3064;&#x30ed; &#x4e7e;&#x676f;~&#xff0c;&#x83b7;&#x5f97;&#x66f4;&#x591a;&#x7c7b;&#x4f3c;&#x8bc4;&#x6d4b;&#xff01;"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="jLabel10">
+                                      <Properties>
+                                        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                          <Color blue="df" green="7a" red="c6" type="rgb"/>
+                                        </Property>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Microsoft YaHei UI" size="18" style="0"/>
+                                        </Property>
+                                        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                          <Color blue="df" green="7a" red="c6" type="rgb"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="487,864&#xa;&#x540d;&#x5173;&#x6ce8;&#x8005;"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JButton" name="jButton29">
+                                      <Properties>
+                                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                          <Image iconType="2" name="C:\Users\VX50IU9830\Desktop\steam\&#x65b0;&#x5efa;&#x6587;&#x4ef6;&#x5939;\9c8348a581554f9a86523c8b10f0eec.png"/>
+                                        </Property>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JButton" name="jButton30">
+                                      <Properties>
+                                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                          <Image iconType="2" name="C:\Users\VX50IU9830\Desktop\steam\&#x65b0;&#x5efa;&#x6587;&#x4ef6;&#x5939;\9c8348a581554f9a86523c8b10f0eec.png"/>
+                                        </Property>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JButton" name="jButton31">
+                                      <Properties>
+                                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                          <Image iconType="2" name="C:\Users\VX50IU9830\Desktop\steam\&#x65b0;&#x5efa;&#x6587;&#x4ef6;&#x5939;\9c8348a581554f9a86523c8b10f0eec.png"/>
+                                        </Property>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JButton" name="jButton32">
+                                      <Properties>
+                                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                          <Image iconType="2" name="C:\Users\VX50IU9830\Desktop\steam\&#x65b0;&#x5efa;&#x6587;&#x4ef6;&#x5939;\9c8348a581554f9a86523c8b10f0eec.png"/>
+                                        </Property>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="jLabel11">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Microsoft YaHei UI" size="18" style="0"/>
+                                        </Property>
+                                        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                          <Color blue="ff" green="66" red="33" type="rgb"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="&#x63a8;&#x8350;"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="jLabel12">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Microsoft YaHei UI" size="18" style="0"/>
+                                        </Property>
+                                        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                          <Color blue="ff" green="66" red="33" type="rgb"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="&#x63a8;&#x8350;"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="jLabel13">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Microsoft YaHei UI" size="18" style="0"/>
+                                        </Property>
+                                        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                          <Color blue="ff" green="66" red="33" type="rgb"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="&#x63a8;&#x8350;"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="jLabel14">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Microsoft YaHei UI" size="18" style="0"/>
+                                        </Property>
+                                        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                          <Color blue="ff" green="66" red="33" type="rgb"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="&#x63a8;&#x8350;"/>
+                                      </Properties>
+                                    </Component>
+                                    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+                                      <AuxValues>
+                                        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                                      </AuxValues>
+
+                                      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                                      <SubComponents>
+                                        <Component class="javax.swing.JTextArea" name="jTextArea1">
+                                          <Properties>
+                                            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                              <Color blue="60" green="53" red="49" type="rgb"/>
+                                            </Property>
+                                            <Property name="columns" type="int" value="20"/>
+                                            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                              <Font name="Monospaced" size="15" style="0"/>
+                                            </Property>
+                                            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                              <Color blue="cc" green="cc" red="cc" type="rgb"/>
+                                            </Property>
+                                            <Property name="lineWrap" type="boolean" value="true"/>
+                                            <Property name="rows" type="int" value="5"/>
+                                            <Property name="text" type="java.lang.String" value="&#x4e00;&#x6b3e;&#x5e73;&#x53f0;&#x8df3;&#x8dc3;&#x6e38;&#x620f;&#xff0c;&#x50cf;&#x7d20;&#x98ce;&#x683c;&#x7684;&#x753b;&#x9762;&#x62e5;&#x6709;&#x4e0d;&#x9519;&#x7684;&#x7cbe;&#x7ec6;&#x5ea6;&#xff0c;&#x5728;&#x8fd9;&#x6b3e;&#x6e38;&#x620f;&#x4e2d;&#x6211;&#x4eec;&#x53ef;&#x4ee5;&#x770b;&#x5230;&#x201c;&#x6d1b;&#x514b;&#x4eba;&#x201d;&#x201c;&#x6d1e;&#x7a9f;&#x5192;&#x9669;&#x201d;&#x4ee5;&#x53ca;&#x201c;&#x6076;&#x9b54;&#x57ce;&#x201d;&#x7684;&#x4e2d;&#x4f18;&#x79c0;&#x5143;&#x7d20;&#x7684;&#x5f71;&#x5b50;&#x3002;&#x89d2;&#x8272;&#x7684;&#x52a8;&#x4f5c;&#x7b97;&#x4e0d;&#x4e0a;&#x6781;&#x4e3a;&#x6d41;&#x7a0b;&#xff0c;&#x4f46;&#x662f;&#x4e5f;&#x8db3;&#x591f;&#x8fde;&#x8d2f;&#x3002;&#x62e5;&#x6709;&#x4e0d;&#x540c;&#x53d8;&#x5316;&#x9636;&#x6bb5;&#x4ee5;&#x53ca;&#x4e0d;&#x540c;&#x653b;&#x51fb;&#x5957;&#x8def;&#x7684;boss&#x8bbe;&#x8ba1;&#xff0c;&#x662f;&#x6e38;&#x620f;&#x7684;&#x4e00;&#x5927;&#x4eae;&#x70b9;&#xff0c;&#x589e;&#x52a0;&#x4e86;&#x4e0d;&#x5c11;&#x4e50;&#x8da3;&#x3002;&#x5982;&#x679c;&#x4f60;&#x89c9;&#x5f97;&#x73b0;&#x5728;&#x5176;&#x4ed6;&#x6e38;&#x620f;&#x603b;&#x89c9;&#x5f97;&#x6b20;&#x7f3a;&#x4e00;&#x4e9b;&#x6311;&#x6218;&#xff0c;&#x4e0d;&#x59a8;&#x8bd5;&#x4e00;&#x4e0b;&#x8fd9;&#x6b3e;platfoemer&#xff0c;&#x633a;&#x6709;&#x6311;&#x6218;&#x6027;&#x7684;&#x3002;"/>
+                                            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                                              <Border info="null"/>
+                                            </Property>
+                                            <Property name="disabledTextColor" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                              <Color blue="60" green="53" red="49" type="rgb"/>
+                                            </Property>
+                                          </Properties>
+                                        </Component>
+                                      </SubComponents>
+                                    </Container>
+                                    <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+                                      <AuxValues>
+                                        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                                      </AuxValues>
+
+                                      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                                      <SubComponents>
+                                        <Component class="javax.swing.JTextArea" name="jTextArea2">
+                                          <Properties>
+                                            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                              <Color blue="60" green="53" red="49" type="rgb"/>
+                                            </Property>
+                                            <Property name="columns" type="int" value="20"/>
+                                            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                              <Font name="Monospaced" size="15" style="0"/>
+                                            </Property>
+                                            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                              <Color blue="cc" green="cc" red="cc" type="rgb"/>
+                                            </Property>
+                                            <Property name="lineWrap" type="boolean" value="true"/>
+                                            <Property name="rows" type="int" value="5"/>
+                                            <Property name="text" type="java.lang.String" value="&#x4e00;&#x6b3e;&#x5e73;&#x53f0;&#x8df3;&#x8dc3;&#x6e38;&#x620f;&#xff0c;&#x50cf;&#x7d20;&#x98ce;&#x683c;&#x7684;&#x753b;&#x9762;&#x62e5;&#x6709;&#x4e0d;&#x9519;&#x7684;&#x7cbe;&#x7ec6;&#x5ea6;&#xff0c;&#x5728;&#x8fd9;&#x6b3e;&#x6e38;&#x620f;&#x4e2d;&#x6211;&#x4eec;&#x53ef;&#x4ee5;&#x770b;&#x5230;&#x201c;&#x6d1b;&#x514b;&#x4eba;&#x201d;&#x201c;&#x6d1e;&#x7a9f;&#x5192;&#x9669;&#x201d;&#x4ee5;&#x53ca;&#x201c;&#x6076;&#x9b54;&#x57ce;&#x201d;&#x7684;&#x4e2d;&#x4f18;&#x79c0;&#x5143;&#x7d20;&#x7684;&#x5f71;&#x5b50;&#x3002;&#x89d2;&#x8272;&#x7684;&#x52a8;&#x4f5c;&#x7b97;&#x4e0d;&#x4e0a;&#x6781;&#x4e3a;&#x6d41;&#x7a0b;&#xff0c;&#x4f46;&#x662f;&#x4e5f;&#x8db3;&#x591f;&#x8fde;&#x8d2f;&#x3002;&#x62e5;&#x6709;&#x4e0d;&#x540c;&#x53d8;&#x5316;&#x9636;&#x6bb5;&#x4ee5;&#x53ca;&#x4e0d;&#x540c;&#x653b;&#x51fb;&#x5957;&#x8def;&#x7684;boss&#x8bbe;&#x8ba1;&#xff0c;&#x662f;&#x6e38;&#x620f;&#x7684;&#x4e00;&#x5927;&#x4eae;&#x70b9;&#xff0c;&#x589e;&#x52a0;&#x4e86;&#x4e0d;&#x5c11;&#x4e50;&#x8da3;&#x3002;&#x5982;&#x679c;&#x4f60;&#x89c9;&#x5f97;&#x73b0;&#x5728;&#x5176;&#x4ed6;&#x6e38;&#x620f;&#x603b;&#x89c9;&#x5f97;&#x6b20;&#x7f3a;&#x4e00;&#x4e9b;&#x6311;&#x6218;&#xff0c;&#x4e0d;&#x59a8;&#x8bd5;&#x4e00;&#x4e0b;&#x8fd9;&#x6b3e;platfoemer&#xff0c;&#x633a;&#x6709;&#x6311;&#x6218;&#x6027;&#x7684;&#x3002;"/>
+                                            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                                              <Border info="null"/>
+                                            </Property>
+                                            <Property name="disabledTextColor" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                              <Color blue="60" green="53" red="49" type="rgb"/>
+                                            </Property>
+                                          </Properties>
+                                        </Component>
+                                      </SubComponents>
+                                    </Container>
+                                    <Container class="javax.swing.JScrollPane" name="jScrollPane4">
+                                      <AuxValues>
+                                        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                                      </AuxValues>
+
+                                      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                                      <SubComponents>
+                                        <Component class="javax.swing.JTextArea" name="jTextArea3">
+                                          <Properties>
+                                            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                              <Color blue="60" green="53" red="49" type="rgb"/>
+                                            </Property>
+                                            <Property name="columns" type="int" value="20"/>
+                                            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                              <Font name="Monospaced" size="15" style="0"/>
+                                            </Property>
+                                            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                              <Color blue="cc" green="cc" red="cc" type="rgb"/>
+                                            </Property>
+                                            <Property name="lineWrap" type="boolean" value="true"/>
+                                            <Property name="rows" type="int" value="5"/>
+                                            <Property name="text" type="java.lang.String" value="&#x4e00;&#x6b3e;&#x5e73;&#x53f0;&#x8df3;&#x8dc3;&#x6e38;&#x620f;&#xff0c;&#x50cf;&#x7d20;&#x98ce;&#x683c;&#x7684;&#x753b;&#x9762;&#x62e5;&#x6709;&#x4e0d;&#x9519;&#x7684;&#x7cbe;&#x7ec6;&#x5ea6;&#xff0c;&#x5728;&#x8fd9;&#x6b3e;&#x6e38;&#x620f;&#x4e2d;&#x6211;&#x4eec;&#x53ef;&#x4ee5;&#x770b;&#x5230;&#x201c;&#x6d1b;&#x514b;&#x4eba;&#x201d;&#x201c;&#x6d1e;&#x7a9f;&#x5192;&#x9669;&#x201d;&#x4ee5;&#x53ca;&#x201c;&#x6076;&#x9b54;&#x57ce;&#x201d;&#x7684;&#x4e2d;&#x4f18;&#x79c0;&#x5143;&#x7d20;&#x7684;&#x5f71;&#x5b50;&#x3002;&#x89d2;&#x8272;&#x7684;&#x52a8;&#x4f5c;&#x7b97;&#x4e0d;&#x4e0a;&#x6781;&#x4e3a;&#x6d41;&#x7a0b;&#xff0c;&#x4f46;&#x662f;&#x4e5f;&#x8db3;&#x591f;&#x8fde;&#x8d2f;&#x3002;&#x62e5;&#x6709;&#x4e0d;&#x540c;&#x53d8;&#x5316;&#x9636;&#x6bb5;&#x4ee5;&#x53ca;&#x4e0d;&#x540c;&#x653b;&#x51fb;&#x5957;&#x8def;&#x7684;boss&#x8bbe;&#x8ba1;&#xff0c;&#x662f;&#x6e38;&#x620f;&#x7684;&#x4e00;&#x5927;&#x4eae;&#x70b9;&#xff0c;&#x589e;&#x52a0;&#x4e86;&#x4e0d;&#x5c11;&#x4e50;&#x8da3;&#x3002;&#x5982;&#x679c;&#x4f60;&#x89c9;&#x5f97;&#x73b0;&#x5728;&#x5176;&#x4ed6;&#x6e38;&#x620f;&#x603b;&#x89c9;&#x5f97;&#x6b20;&#x7f3a;&#x4e00;&#x4e9b;&#x6311;&#x6218;&#xff0c;&#x4e0d;&#x59a8;&#x8bd5;&#x4e00;&#x4e0b;&#x8fd9;&#x6b3e;platfoemer&#xff0c;&#x633a;&#x6709;&#x6311;&#x6218;&#x6027;&#x7684;&#x3002;"/>
+                                            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                                              <Border info="null"/>
+                                            </Property>
+                                            <Property name="disabledTextColor" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                              <Color blue="60" green="53" red="49" type="rgb"/>
+                                            </Property>
+                                          </Properties>
+                                        </Component>
+                                      </SubComponents>
+                                    </Container>
+                                    <Container class="javax.swing.JScrollPane" name="jScrollPane5">
+                                      <AuxValues>
+                                        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                                      </AuxValues>
+
+                                      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                                      <SubComponents>
+                                        <Component class="javax.swing.JTextArea" name="jTextArea4">
+                                          <Properties>
+                                            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                              <Color blue="60" green="53" red="49" type="rgb"/>
+                                            </Property>
+                                            <Property name="columns" type="int" value="20"/>
+                                            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                              <Font name="Monospaced" size="15" style="0"/>
+                                            </Property>
+                                            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                              <Color blue="cc" green="cc" red="cc" type="rgb"/>
+                                            </Property>
+                                            <Property name="lineWrap" type="boolean" value="true"/>
+                                            <Property name="rows" type="int" value="5"/>
+                                            <Property name="text" type="java.lang.String" value="&#x4e00;&#x6b3e;&#x5e73;&#x53f0;&#x8df3;&#x8dc3;&#x6e38;&#x620f;&#xff0c;&#x50cf;&#x7d20;&#x98ce;&#x683c;&#x7684;&#x753b;&#x9762;&#x62e5;&#x6709;&#x4e0d;&#x9519;&#x7684;&#x7cbe;&#x7ec6;&#x5ea6;&#xff0c;&#x5728;&#x8fd9;&#x6b3e;&#x6e38;&#x620f;&#x4e2d;&#x6211;&#x4eec;&#x53ef;&#x4ee5;&#x770b;&#x5230;&#x201c;&#x6d1b;&#x514b;&#x4eba;&#x201d;&#x201c;&#x6d1e;&#x7a9f;&#x5192;&#x9669;&#x201d;&#x4ee5;&#x53ca;&#x201c;&#x6076;&#x9b54;&#x57ce;&#x201d;&#x7684;&#x4e2d;&#x4f18;&#x79c0;&#x5143;&#x7d20;&#x7684;&#x5f71;&#x5b50;&#x3002;&#x89d2;&#x8272;&#x7684;&#x52a8;&#x4f5c;&#x7b97;&#x4e0d;&#x4e0a;&#x6781;&#x4e3a;&#x6d41;&#x7a0b;&#xff0c;&#x4f46;&#x662f;&#x4e5f;&#x8db3;&#x591f;&#x8fde;&#x8d2f;&#x3002;&#x62e5;&#x6709;&#x4e0d;&#x540c;&#x53d8;&#x5316;&#x9636;&#x6bb5;&#x4ee5;&#x53ca;&#x4e0d;&#x540c;&#x653b;&#x51fb;&#x5957;&#x8def;&#x7684;boss&#x8bbe;&#x8ba1;&#xff0c;&#x662f;&#x6e38;&#x620f;&#x7684;&#x4e00;&#x5927;&#x4eae;&#x70b9;&#xff0c;&#x589e;&#x52a0;&#x4e86;&#x4e0d;&#x5c11;&#x4e50;&#x8da3;&#x3002;&#x5982;&#x679c;&#x4f60;&#x89c9;&#x5f97;&#x73b0;&#x5728;&#x5176;&#x4ed6;&#x6e38;&#x620f;&#x603b;&#x89c9;&#x5f97;&#x6b20;&#x7f3a;&#x4e00;&#x4e9b;&#x6311;&#x6218;&#xff0c;&#x4e0d;&#x59a8;&#x8bd5;&#x4e00;&#x4e0b;&#x8fd9;&#x6b3e;platfoemer&#xff0c;&#x633a;&#x6709;&#x6311;&#x6218;&#x6027;&#x7684;&#x3002;"/>
+                                            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                                              <Border info="null"/>
+                                            </Property>
+                                            <Property name="disabledTextColor" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                              <Color blue="60" green="53" red="49" type="rgb"/>
+                                            </Property>
+                                          </Properties>
+                                        </Component>
+                                      </SubComponents>
+                                    </Container>
+                                  </SubComponents>
+                                </Container>
+                                <Component class="javax.swing.JLabel" name="jLabel15">
+                                  <Properties>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="24" style="0"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="&#x70ed;&#x95e8;VR&#x6e38;&#x620f;"/>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton33">
+                                  <Properties>
+                                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                      <Image iconType="2" name="D:\&#x4f5c;&#x4e1a;2\Java&#x7a0b;&#x5e8f;&#x5b9e;&#x8bad;\F_Four\src\view\image\&#x70ed;&#x95e8;1.png"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton34">
+                                  <Properties>
+                                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                      <Image iconType="2" name="D:\&#x4f5c;&#x4e1a;2\Java&#x7a0b;&#x5e8f;&#x5b9e;&#x8bad;\F_Four\src\view\image\&#x70ed;&#x95e8;2.png"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton35">
+                                  <Properties>
+                                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                      <Image iconType="2" name="D:\&#x4f5c;&#x4e1a;2\Java&#x7a0b;&#x5e8f;&#x5b9e;&#x8bad;\F_Four\src\view\image\&#x70ed;&#x95e8;3.png"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton36">
+                                  <Properties>
+                                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                      <Image iconType="2" name="D:\&#x4f5c;&#x4e1a;2\Java&#x7a0b;&#x5e8f;&#x5b9e;&#x8bad;\F_Four\src\view\image\&#x70ed;&#x95e8;4.png"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton37">
+                                  <Properties>
+                                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="38" green="2e" red="1b" type="rgb"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="&#x6d4f;&#x89c8;&#x6240;&#x6709;"/>
+                                  </Properties>
+                                </Component>
+                              </SubComponents>
+                            </Container>
+                            <Container class="javax.swing.JPanel" name="jPanel6">
+                              <Properties>
+                                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                  <Color blue="63" green="48" red="1a" type="rgb"/>
+                                </Property>
+                              </Properties>
+
+                              <Layout>
+                                <DimensionLayout dim="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="jButton9" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace min="-2" pref="1" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="jLabel2" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="jButton8" min="-2" pref="1180" max="-2" attributes="0"/>
+                                                  <EmptySpace min="-2" pref="2" max="-2" attributes="0"/>
+                                                  <Component id="jButton10" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                          </Group>
+                                          <EmptySpace pref="111" max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                </DimensionLayout>
+                                <DimensionLayout dim="1">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="1" attributes="0">
+                                          <EmptySpace min="-2" pref="7" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Group type="102" alignment="1" attributes="0">
+                                                  <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="jButton8" min="-2" pref="483" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <EmptySpace min="-2" pref="176" max="-2" attributes="0"/>
+                                                  <Component id="jButton9" min="-2" pref="145" max="-2" attributes="0"/>
+                                                  <EmptySpace pref="203" max="32767" attributes="0"/>
+                                              </Group>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <EmptySpace min="-2" pref="172" max="-2" attributes="0"/>
+                                                  <Component id="jButton10" min="-2" pref="152" max="-2" attributes="0"/>
+                                                  <EmptySpace pref="200" max="32767" attributes="0"/>
+                                              </Group>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                                </DimensionLayout>
+                              </Layout>
+                              <SubComponents>
+                                <Component class="javax.swing.JLabel" name="jLabel2">
+                                  <Properties>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="24" style="0"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="&#x7cbe;&#x9009;&#x548c;&#x63a8;&#x8350;"/>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton8">
+                                  <Properties>
+                                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                      <Image iconType="2" name="D:\&#x4f5c;&#x4e1a;2\Java&#x7a0b;&#x5e8f;&#x5b9e;&#x8bad;\F_Four\src\view\image\&#x8f6e;&#x64ad;.png"/>
+                                    </Property>
+                                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                                      <Border info="null"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton9">
+                                  <Properties>
+                                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="46" green="31" red="11" type="rgb"/>
+                                    </Property>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="24" style="1"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="&lt;"/>
+                                  </Properties>
+                                  <Events>
+                                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton9ActionPerformed"/>
+                                  </Events>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton10">
+                                  <Properties>
+                                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="46" green="31" red="11" type="rgb"/>
+                                    </Property>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="24" style="1"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="&gt;"/>
+                                  </Properties>
+                                </Component>
+                              </SubComponents>
+                            </Container>
+                            <Container class="javax.swing.JPanel" name="jPanel8">
+                              <Properties>
+                                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                  <Color blue="63" green="48" red="1a" type="rgb"/>
+                                </Property>
+                              </Properties>
+
+                              <Layout>
+                                <DimensionLayout dim="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="-2" pref="70" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="jButton16" alignment="0" min="-2" pref="387" max="-2" attributes="0"/>
+                                              <Component id="jLabel5" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="jButton17" min="-2" pref="383" max="-2" attributes="0"/>
+                                          <EmptySpace min="-2" pref="52" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="1" attributes="0">
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="jButton19" alignment="0" min="-2" pref="380" max="-2" attributes="1"/>
+                                                  <Component id="jButton18" alignment="1" min="-2" pref="380" max="-2" attributes="1"/>
+                                              </Group>
+                                              <Component id="jButton22" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace pref="206" max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                </DimensionLayout>
+                                <DimensionLayout dim="1">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="1" attributes="0">
+                                              <Component id="jButton17" alignment="1" min="-2" pref="487" max="-2" attributes="0"/>
+                                              <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                                                  <Group type="102" alignment="0" attributes="0">
+                                                      <EmptySpace min="-2" pref="52" max="-2" attributes="0"/>
+                                                      <Component id="jButton18" min="-2" pref="231" max="-2" attributes="0"/>
+                                                      <EmptySpace pref="25" max="32767" attributes="0"/>
+                                                      <Component id="jButton19" min="-2" pref="231" max="-2" attributes="0"/>
+                                                  </Group>
+                                                  <Group type="102" alignment="0" attributes="0">
+                                                      <Group type="103" groupAlignment="3" attributes="0">
+                                                          <Component id="jLabel5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                          <Component id="jButton22" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                      </Group>
+                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                      <Component id="jButton16" min="-2" pref="487" max="-2" attributes="0"/>
+                                                  </Group>
+                                              </Group>
+                                          </Group>
+                                          <EmptySpace pref="115" max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                </DimensionLayout>
+                              </Layout>
+                              <SubComponents>
+                                <Component class="javax.swing.JLabel" name="jLabel5">
+                                  <Properties>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="24" style="0"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="&#x7279;&#x522b;&#x4f18;&#x60e0;"/>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton16">
+                                  <Properties>
+                                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                      <Image iconType="2" name="D:\&#x4f5c;&#x4e1a;2\Java&#x7a0b;&#x5e8f;&#x5b9e;&#x8bad;\F_Four\src\view\image\&#x4f18;&#x60e0;1.png"/>
+                                    </Property>
+                                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                                      <Border info="null"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton17">
+                                  <Properties>
+                                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                      <Image iconType="2" name="D:\&#x4f5c;&#x4e1a;2\Java&#x7a0b;&#x5e8f;&#x5b9e;&#x8bad;\F_Four\src\view\image\&#x4f18;&#x60e0;2.png"/>
+                                    </Property>
+                                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                                      <Border info="null"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton18">
+                                  <Properties>
+                                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                      <Image iconType="2" name="D:\&#x4f5c;&#x4e1a;2\Java&#x7a0b;&#x5e8f;&#x5b9e;&#x8bad;\F_Four\src\view\image\&#x4f18;&#x60e0;3.png"/>
+                                    </Property>
+                                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                                      <Border info="null"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton19">
+                                  <Properties>
+                                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                      <Image iconType="2" name="D:\&#x4f5c;&#x4e1a;2\Java&#x7a0b;&#x5e8f;&#x5b9e;&#x8bad;\F_Four\src\view\image\&#x4f18;&#x60e0;4.png"/>
+                                    </Property>
+                                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                                      <Border info="null"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton22">
+                                  <Properties>
+                                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="63" green="48" red="1a" type="rgb"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="&#x6d4f;&#x89c8;&#x6240;&#x6709;"/>
+                                  </Properties>
+                                </Component>
+                              </SubComponents>
+                            </Container>
+                            <Container class="javax.swing.JPanel" name="jPanel5">
+                              <Properties>
+                                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                  <Color blue="92" green="6d" red="35" type="rgb"/>
+                                </Property>
+                                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                  <Font name="Microsoft YaHei UI" size="18" style="0"/>
+                                </Property>
+                              </Properties>
+
+                              <Layout>
+                                <DimensionLayout dim="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace min="-2" pref="1" max="-2" attributes="0"/>
+                                          <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace min="-2" pref="1" max="-2" attributes="0"/>
+                                          <Component id="jButton3" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace min="-2" pref="1" max="-2" attributes="0"/>
+                                          <Component id="jButton4" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace min="-2" pref="1" max="-2" attributes="0"/>
+                                          <Component id="jButton6" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace min="-2" pref="1" max="-2" attributes="0"/>
+                                          <Component id="jButton5" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace pref="384" max="32767" attributes="0"/>
+                                          <Component id="jTextField1" min="-2" pref="235" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="jButton7" min="-2" pref="31" max="-2" attributes="0"/>
+                                          <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                </DimensionLayout>
+                                <DimensionLayout dim="1">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="-2" pref="8" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                                                  <Component id="jButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jButton2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jButton3" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jButton4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jButton6" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jButton5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextField1" alignment="3" min="-2" pref="28" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Component id="jButton7" alignment="0" min="-2" pref="32" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                </DimensionLayout>
+                              </Layout>
+                              <SubComponents>
+                                <Component class="javax.swing.JButton" name="jButton1">
+                                  <Properties>
+                                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="92" green="6d" red="35" type="rgb"/>
+                                    </Property>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="18" style="0"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="  &#x60a8;&#x7684;&#x5546;&#x5e97;v  "/>
+                                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                                      <Border info="null"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton2">
+                                  <Properties>
+                                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="92" green="6d" red="35" type="rgb"/>
+                                    </Property>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="18" style="0"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="    &#x6e38;&#x620f;v   "/>
+                                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                                      <Border info="null"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton3">
+                                  <Properties>
+                                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="92" green="6d" red="35" type="rgb"/>
+                                    </Property>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="18" style="0"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="    &#x8f6f;&#x4ef6;v   "/>
+                                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                                      <Border info="null"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton4">
+                                  <Properties>
+                                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="92" green="6d" red="35" type="rgb"/>
+                                    </Property>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="18" style="0"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="    &#x786c;&#x4ef6;v   "/>
+                                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                                      <Border info="null"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton5">
+                                  <Properties>
+                                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="92" green="6d" red="35" type="rgb"/>
+                                    </Property>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="18" style="0"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="    &#x65b0;&#x95fb;v   "/>
+                                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                                      <Border info="null"/>
+                                    </Property>
+                                  </Properties>
+                                  <Events>
+                                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton5ActionPerformed"/>
+                                  </Events>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton6">
+                                  <Properties>
+                                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="92" green="6d" red="35" type="rgb"/>
+                                    </Property>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="18" style="0"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="    &#x89c6;&#x9891;v   "/>
+                                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                                      <Border info="null"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JTextField" name="jTextField1">
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton7">
+                                  <Properties>
+                                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                      <Image iconType="2" name="D:\&#x4f5c;&#x4e1a;2\Java&#x7a0b;&#x5e8f;&#x5b9e;&#x8bad;\F_Four\src\view\image\&#x641c;&#x7d22;.png"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                              </SubComponents>
+                            </Container>
+                            <Container class="javax.swing.JPanel" name="jPanel13">
+                              <Properties>
+                                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                  <Color blue="59" green="43" red="27" type="rgb"/>
+                                </Property>
+                              </Properties>
+
+                              <Layout>
+                                <DimensionLayout dim="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="-2" pref="398" max="-2" attributes="0"/>
+                                          <Component id="jTabbedPane2" min="-2" pref="1197" max="-2" attributes="0"/>
+                                          <EmptySpace pref="317" max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                </DimensionLayout>
+                                <DimensionLayout dim="1">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="jTabbedPane2" min="-2" pref="1001" max="-2" attributes="0"/>
+                                          <EmptySpace pref="57" max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                </DimensionLayout>
+                              </Layout>
+                              <SubComponents>
+                                <Container class="javax.swing.JTabbedPane" name="jTabbedPane2">
+                                  <Properties>
+                                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="0" green="0" red="0" type="rgb"/>
+                                    </Property>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="18" style="0"/>
+                                    </Property>
+                                  </Properties>
+
+                                  <Layout class="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout"/>
+                                  <SubComponents>
+                                    <Container class="javax.swing.JPanel" name="jPanel14">
+                                      <Properties>
+                                        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                          <Color blue="59" green="43" red="27" type="rgb"/>
+                                        </Property>
+                                      </Properties>
+                                      <Constraints>
+                                        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+                                          <JTabbedPaneConstraints tabName="&#x70ed;&#x54c1;&#x4e0e;&#x70ed;&#x95e8;&#x5546;&#x54c1;">
+                                            <Property name="tabTitle" type="java.lang.String" value="&#x70ed;&#x54c1;&#x4e0e;&#x70ed;&#x95e8;&#x5546;&#x54c1;"/>
+                                          </JTabbedPaneConstraints>
+                                        </Constraint>
+                                      </Constraints>
+
+                                      <Layout>
+                                        <DimensionLayout dim="0">
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Group type="102" alignment="1" attributes="0">
+                                                  <EmptySpace max="32767" attributes="0"/>
+                                                  <Group type="103" groupAlignment="0" attributes="0">
+                                                      <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                                                          <Component id="jButton38" min="-2" pref="773" max="-2" attributes="0"/>
+                                                          <Component id="jButton39" min="-2" pref="773" max="-2" attributes="0"/>
+                                                          <Component id="jButton40" min="-2" pref="773" max="-2" attributes="0"/>
+                                                      </Group>
+                                                      <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                                                          <Component id="jButton42" alignment="1" min="-2" pref="773" max="-2" attributes="0"/>
+                                                          <Component id="jButton41" alignment="1" min="-2" pref="773" max="-2" attributes="0"/>
+                                                          <Component id="jButton43" alignment="1" min="-2" pref="773" max="-2" attributes="0"/>
+                                                      </Group>
+                                                      <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                                                          <Component id="jButton45" alignment="1" min="-2" pref="773" max="-2" attributes="0"/>
+                                                          <Component id="jButton44" alignment="1" min="-2" pref="773" max="-2" attributes="0"/>
+                                                      </Group>
+                                                      <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                                                          <Component id="jButton47" alignment="1" min="-2" pref="773" max="-2" attributes="0"/>
+                                                          <Component id="jButton46" alignment="1" min="-2" pref="773" max="-2" attributes="0"/>
+                                                      </Group>
+                                                  </Group>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="jLabel16" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                              </Group>
+                                          </Group>
+                                        </DimensionLayout>
+                                        <DimensionLayout dim="1">
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                                      <Component id="jLabel16" alignment="0" max="32767" attributes="1"/>
+                                                      <Group type="102" alignment="0" attributes="0">
+                                                          <Component id="jButton38" min="-2" pref="85" max="-2" attributes="0"/>
+                                                          <EmptySpace max="-2" attributes="0"/>
+                                                          <Component id="jButton39" min="-2" pref="85" max="-2" attributes="0"/>
+                                                          <EmptySpace max="-2" attributes="0"/>
+                                                          <Component id="jButton40" min="-2" pref="85" max="-2" attributes="0"/>
+                                                          <EmptySpace max="-2" attributes="0"/>
+                                                          <Component id="jButton41" min="-2" pref="85" max="-2" attributes="0"/>
+                                                          <EmptySpace max="-2" attributes="0"/>
+                                                          <Component id="jButton42" min="-2" pref="85" max="-2" attributes="0"/>
+                                                          <EmptySpace max="-2" attributes="0"/>
+                                                          <Component id="jButton43" min="-2" pref="85" max="-2" attributes="0"/>
+                                                          <EmptySpace max="-2" attributes="0"/>
+                                                          <Component id="jButton44" min="-2" pref="85" max="-2" attributes="0"/>
+                                                          <EmptySpace max="-2" attributes="0"/>
+                                                          <Component id="jButton45" min="-2" pref="85" max="-2" attributes="0"/>
+                                                          <EmptySpace max="-2" attributes="0"/>
+                                                          <Component id="jButton46" min="-2" pref="85" max="-2" attributes="0"/>
+                                                          <EmptySpace max="-2" attributes="0"/>
+                                                          <Component id="jButton47" min="-2" pref="85" max="-2" attributes="0"/>
+                                                      </Group>
+                                                  </Group>
+                                                  <EmptySpace max="32767" attributes="0"/>
+                                              </Group>
+                                          </Group>
+                                        </DimensionLayout>
+                                      </Layout>
+                                      <SubComponents>
+                                        <Component class="javax.swing.JButton" name="jButton38">
+                                          <Properties>
+                                            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                              <Image iconType="2" name="D:\&#x4f5c;&#x4e1a;2\Java&#x7a0b;&#x5e8f;&#x5b9e;&#x8bad;\F_Four\src\view\image\&#x70ed;&#x54c1;1.png"/>
+                                            </Property>
+                                          </Properties>
+                                        </Component>
+                                        <Component class="javax.swing.JLabel" name="jLabel16">
+                                          <Properties>
+                                            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                              <Image iconType="2" name="D:\&#x4f5c;&#x4e1a;2\Java&#x7a0b;&#x5e8f;&#x5b9e;&#x8bad;\F_Four\src\view\image\&#x70ed;&#x54c1;4.png"/>
+                                            </Property>
+                                          </Properties>
+                                        </Component>
+                                        <Component class="javax.swing.JButton" name="jButton39">
+                                          <Properties>
+                                            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                              <Image iconType="2" name="D:\&#x4f5c;&#x4e1a;2\Java&#x7a0b;&#x5e8f;&#x5b9e;&#x8bad;\F_Four\src\view\image\&#x70ed;&#x54c1;1.png"/>
+                                            </Property>
+                                          </Properties>
+                                        </Component>
+                                        <Component class="javax.swing.JButton" name="jButton40">
+                                          <Properties>
+                                            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                              <Image iconType="2" name="D:\&#x4f5c;&#x4e1a;2\Java&#x7a0b;&#x5e8f;&#x5b9e;&#x8bad;\F_Four\src\view\image\&#x70ed;&#x54c1;1.png"/>
+                                            </Property>
+                                          </Properties>
+                                        </Component>
+                                        <Component class="javax.swing.JButton" name="jButton41">
+                                          <Properties>
+                                            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                              <Image iconType="2" name="D:\&#x4f5c;&#x4e1a;2\Java&#x7a0b;&#x5e8f;&#x5b9e;&#x8bad;\F_Four\src\view\image\&#x70ed;&#x54c1;1.png"/>
+                                            </Property>
+                                          </Properties>
+                                        </Component>
+                                        <Component class="javax.swing.JButton" name="jButton42">
+                                          <Properties>
+                                            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                              <Image iconType="2" name="D:\&#x4f5c;&#x4e1a;2\Java&#x7a0b;&#x5e8f;&#x5b9e;&#x8bad;\F_Four\src\view\image\&#x70ed;&#x54c1;1.png"/>
+                                            </Property>
+                                          </Properties>
+                                        </Component>
+                                        <Component class="javax.swing.JButton" name="jButton43">
+                                          <Properties>
+                                            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                              <Image iconType="2" name="D:\&#x4f5c;&#x4e1a;2\Java&#x7a0b;&#x5e8f;&#x5b9e;&#x8bad;\F_Four\src\view\image\&#x70ed;&#x54c1;1.png"/>
+                                            </Property>
+                                          </Properties>
+                                        </Component>
+                                        <Component class="javax.swing.JButton" name="jButton44">
+                                          <Properties>
+                                            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                              <Image iconType="2" name="D:\&#x4f5c;&#x4e1a;2\Java&#x7a0b;&#x5e8f;&#x5b9e;&#x8bad;\F_Four\src\view\image\&#x70ed;&#x54c1;1.png"/>
+                                            </Property>
+                                          </Properties>
+                                        </Component>
+                                        <Component class="javax.swing.JButton" name="jButton45">
+                                          <Properties>
+                                            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                              <Image iconType="2" name="D:\&#x4f5c;&#x4e1a;2\Java&#x7a0b;&#x5e8f;&#x5b9e;&#x8bad;\F_Four\src\view\image\&#x70ed;&#x54c1;1.png"/>
+                                            </Property>
+                                          </Properties>
+                                        </Component>
+                                        <Component class="javax.swing.JButton" name="jButton46">
+                                          <Properties>
+                                            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                              <Image iconType="2" name="D:\&#x4f5c;&#x4e1a;2\Java&#x7a0b;&#x5e8f;&#x5b9e;&#x8bad;\F_Four\src\view\image\&#x70ed;&#x54c1;1.png"/>
+                                            </Property>
+                                          </Properties>
+                                        </Component>
+                                        <Component class="javax.swing.JButton" name="jButton47">
+                                          <Properties>
+                                            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                              <Image iconType="2" name="D:\&#x4f5c;&#x4e1a;2\Java&#x7a0b;&#x5e8f;&#x5b9e;&#x8bad;\F_Four\src\view\image\&#x70ed;&#x54c1;1.png"/>
+                                            </Property>
+                                          </Properties>
+                                        </Component>
+                                      </SubComponents>
+                                    </Container>
+                                  </SubComponents>
+                                </Container>
+                              </SubComponents>
+                            </Container>
+                            <Container class="javax.swing.JPanel" name="jPanel15">
+                              <Properties>
+                                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                  <Color blue="33" green="33" red="33" type="rgb"/>
+                                </Property>
+                              </Properties>
+
+                              <Layout>
+                                <DimensionLayout dim="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="-2" pref="404" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <Component id="jButton54" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                  <Group type="103" groupAlignment="0" attributes="0">
+                                                      <Group type="102" attributes="0">
+                                                          <Component id="jButton55" min="-2" pref="216" max="-2" attributes="0"/>
+                                                          <EmptySpace max="-2" attributes="0"/>
+                                                          <Component id="jButton56" min="-2" pref="216" max="-2" attributes="0"/>
+                                                          <EmptySpace max="-2" attributes="0"/>
+                                                          <Component id="jButton57" min="-2" pref="216" max="-2" attributes="0"/>
+                                                      </Group>
+                                                      <Group type="102" attributes="0">
+                                                          <Component id="jButton58" min="-2" pref="216" max="-2" attributes="0"/>
+                                                          <EmptySpace max="-2" attributes="0"/>
+                                                          <Component id="jButton59" min="-2" pref="216" max="-2" attributes="0"/>
+                                                          <EmptySpace max="-2" attributes="0"/>
+                                                          <Component id="jButton60" min="-2" pref="216" max="-2" attributes="0"/>
+                                                      </Group>
+                                                  </Group>
+                                              </Group>
+                                              <Component id="jLabel18" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Group type="103" alignment="0" groupAlignment="0" max="-2" attributes="0">
+                                                  <Group type="102" alignment="0" attributes="0">
+                                                      <Component id="jButton48" min="-2" pref="283" max="-2" attributes="0"/>
+                                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                      <Component id="jButton49" min="-2" pref="283" max="-2" attributes="0"/>
+                                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                      <Component id="jButton50" min="-2" pref="283" max="-2" attributes="0"/>
+                                                      <EmptySpace min="15" pref="15" max="-2" attributes="0"/>
+                                                      <Component id="jButton51" min="-2" pref="283" max="-2" attributes="0"/>
+                                                  </Group>
+                                                  <Group type="102" alignment="0" attributes="1">
+                                                      <Component id="jLabel17" min="-2" max="-2" attributes="0"/>
+                                                      <EmptySpace max="32767" attributes="0"/>
+                                                      <Component id="jButton53" min="-2" max="-2" attributes="0"/>
+                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                      <Component id="jButton52" min="-2" max="-2" attributes="0"/>
+                                                  </Group>
+                                              </Group>
+                                          </Group>
+                                          <EmptySpace pref="379" max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                </DimensionLayout>
+                                <DimensionLayout dim="1">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="-2" pref="53" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="1" attributes="0">
+                                              <Group type="102" alignment="1" attributes="0">
+                                                  <Group type="103" groupAlignment="3" attributes="0">
+                                                      <Component id="jButton52" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="jButton53" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  </Group>
+                                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                  <Component id="jButton51" min="-2" pref="163" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Component id="jButton50" alignment="1" min="-2" pref="163" max="-2" attributes="0"/>
+                                              <Component id="jButton49" alignment="1" min="-2" pref="163" max="-2" attributes="0"/>
+                                              <Group type="102" alignment="1" attributes="0">
+                                                  <Component id="jLabel17" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+                                                  <Component id="jButton48" min="-2" pref="163" max="-2" attributes="0"/>
+                                              </Group>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="70" max="-2" attributes="0"/>
+                                          <Component id="jLabel18" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="jButton54" min="-2" max="-2" attributes="0"/>
+                                              <Group type="102" attributes="0">
+                                                  <Group type="103" groupAlignment="0" attributes="0">
+                                                      <Component id="jButton55" alignment="0" min="-2" pref="255" max="-2" attributes="0"/>
+                                                      <Component id="jButton56" alignment="0" min="-2" pref="255" max="-2" attributes="0"/>
+                                                      <Component id="jButton57" alignment="0" min="-2" pref="255" max="-2" attributes="0"/>
+                                                  </Group>
+                                                  <EmptySpace pref="27" max="32767" attributes="0"/>
+                                                  <Group type="103" groupAlignment="0" attributes="0">
+                                                      <Component id="jButton58" alignment="0" min="-2" pref="255" max="-2" attributes="0"/>
+                                                      <Component id="jButton59" alignment="0" min="-2" pref="255" max="-2" attributes="0"/>
+                                                      <Component id="jButton60" alignment="0" min="-2" pref="255" max="-2" attributes="0"/>
+                                                  </Group>
+                                              </Group>
+                                          </Group>
+                                          <EmptySpace pref="124" max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                </DimensionLayout>
+                              </Layout>
+                              <SubComponents>
+                                <Component class="javax.swing.JLabel" name="jLabel17">
+                                  <Properties>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="24" style="0"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="&#x4f4e;&#x4e8e; &#xa5;40 "/>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton48">
+                                  <Properties>
+                                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                      <Image iconType="2" name="C:\Users\VX50IU9830\Desktop\steam\&#x65b0;&#x5efa;&#x6587;&#x4ef6;&#x5939;\&#x4f4e;&#x4ef7;1.png"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton49">
+                                  <Properties>
+                                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                      <Image iconType="2" name="C:\Users\VX50IU9830\Desktop\steam\&#x65b0;&#x5efa;&#x6587;&#x4ef6;&#x5939;\&#x4f4e;&#x4ef7;1.png"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton50">
+                                  <Properties>
+                                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                      <Image iconType="2" name="C:\Users\VX50IU9830\Desktop\steam\&#x65b0;&#x5efa;&#x6587;&#x4ef6;&#x5939;\&#x4f4e;&#x4ef7;1.png"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton51">
+                                  <Properties>
+                                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                      <Image iconType="2" name="C:\Users\VX50IU9830\Desktop\steam\&#x65b0;&#x5efa;&#x6587;&#x4ef6;&#x5939;\&#x4f4e;&#x4ef7;1.png"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton52">
+                                  <Properties>
+                                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="0" green="0" red="0" type="rgb"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="&#x4f4e;&#x4e8e; &#xa5;20 "/>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton53">
+                                  <Properties>
+                                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="0" green="0" red="0" type="rgb"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="&#x4f4e;&#x4e8e; &#xa5;40 "/>
+                                  </Properties>
+                                  <Events>
+                                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton53ActionPerformed"/>
+                                  </Events>
+                                </Component>
+                                <Component class="javax.swing.JLabel" name="jLabel18">
+                                  <Properties>
+                                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                      <Font name="Microsoft YaHei UI" size="24" style="0"/>
+                                    </Property>
+                                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                    </Property>
+                                    <Property name="text" type="java.lang.String" value="&#x66f4;&#x65b0;&#x4e0e;&#x4f18;&#x60e0;"/>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton54">
+                                  <Properties>
+                                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                      <Image iconType="2" name="C:\Users\VX50IU9830\Desktop\steam\&#x65b0;&#x5efa;&#x6587;&#x4ef6;&#x5939;\&#x66f4;&#x65b0;&#x4e0e;&#x4f18;&#x60e0;1.png"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton55">
+                                  <Properties>
+                                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                      <Image iconType="2" name="C:\Users\VX50IU9830\Desktop\steam\&#x65b0;&#x5efa;&#x6587;&#x4ef6;&#x5939;\&#x66f4;&#x65b0;.png"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton56">
+                                  <Properties>
+                                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                      <Image iconType="2" name="C:\Users\VX50IU9830\Desktop\steam\&#x65b0;&#x5efa;&#x6587;&#x4ef6;&#x5939;\&#x66f4;&#x65b0;.png"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton57">
+                                  <Properties>
+                                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                      <Image iconType="2" name="C:\Users\VX50IU9830\Desktop\steam\&#x65b0;&#x5efa;&#x6587;&#x4ef6;&#x5939;\&#x66f4;&#x65b0;.png"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton58">
+                                  <Properties>
+                                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                      <Image iconType="2" name="C:\Users\VX50IU9830\Desktop\steam\&#x65b0;&#x5efa;&#x6587;&#x4ef6;&#x5939;\&#x66f4;&#x65b0;.png"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton59">
+                                  <Properties>
+                                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                      <Image iconType="2" name="C:\Users\VX50IU9830\Desktop\steam\&#x65b0;&#x5efa;&#x6587;&#x4ef6;&#x5939;\&#x66f4;&#x65b0;.png"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                                <Component class="javax.swing.JButton" name="jButton60">
+                                  <Properties>
+                                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                                      <Image iconType="2" name="C:\Users\VX50IU9830\Desktop\steam\&#x65b0;&#x5efa;&#x6587;&#x4ef6;&#x5939;\&#x66f4;&#x65b0;.png"/>
+                                    </Property>
+                                  </Properties>
+                                </Component>
+                              </SubComponents>
+                            </Container>
+                            <Component class="javax.swing.JLabel" name="jLabel19">
+                              <Properties>
+                                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                  <Font name="Microsoft YaHei UI" size="24" style="0"/>
+                                </Property>
+                                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                                </Property>
+                                <Property name="text" type="java.lang.String" value="F4 &#x6e38;&#x620f;&#x5c0f;&#x52a9;&#x624b;"/>
+                              </Properties>
+                            </Component>
+                          </SubComponents>
+                        </Container>
+                      </SubComponents>
+                    </Container>
+                  </SubComponents>
+                </Container>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
